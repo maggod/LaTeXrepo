@@ -1,4 +1,4 @@
 LaTeXrepo
 =========
 
-LaTeX documents
+LaTeX documents (repo)
