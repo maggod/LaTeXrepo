@@ -1,4 +1,4 @@
 LaTeXrepo
 =========
 
-examples of LaTeX documents
+LaTeX documents
