@@ -1,1 +1,12 @@
+# ignorowanie plikow zakonczonych ~
 *~
+
+# ignorowanie plikow posrednich LaTeXa
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.out
+*.toc
+*.tps
