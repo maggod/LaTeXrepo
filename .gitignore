@@ -1,6 +1,6 @@
 # ignorowanie plikow zakonczonych ~ oraz # #
 *~
-#*#
+\#*\#
 
 # ignorowanie plikow posrednich LaTeXa
 *.aux
